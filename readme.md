@@ -1,13 +1,13 @@
-#Django Project 
+# Django Project 
 
-##Requirements
-- Python 2.7
+## Requirements
+* Python 2.7
 
-##Instructions
+## Instructions
 1. 
-##Usage
+## Usage
 
-##Features 
+## Features 
 - [x] Instructions 
 - [ ]
 
