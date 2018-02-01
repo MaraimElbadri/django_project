@@ -1,7 +1,7 @@
 # Django Project 
 
 ## Requirements
-* Python 2.7
+* Python 2.7 - check using this command 'python --version'
 
 ## Instructions
 1. 
